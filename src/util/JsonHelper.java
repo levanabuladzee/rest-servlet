@@ -30,13 +30,9 @@ public class JsonHelper {
 
     // Build JsonObject for POST response
     public static JsonObject generatePostJson(User user) {
-        JsonObjectBuilder userBuilder = Json.createObjectBuilder();
-
-        userBuilder.add("id", user.getId())
+        return Json.createObjectBuilder().add("id", user.getId())
                 .add("username", user.getUsername())
-                .add("password", user.getPassword());
-
-        return userBuilder.build();
+                .add("password", user.getPassword()).build();
     }
 
     // Build JsonArray for GET response

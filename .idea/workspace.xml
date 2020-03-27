@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc804ff9-ef9c-4671-b1f1-041da021cb3e" name="Default Changelist" comment="" />
+    <list default="true" id="cc804ff9-ef9c-4671-b1f1-041da021cb3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rest-servlet" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZcVUSC7cyr4KTREh1CQYyT3kVj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,6 +57,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -207,11 +211,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -236,12 +235,19 @@
       <workItem from="1585205301072" duration="15343000" />
       <workItem from="1585236061083" duration="91000" />
       <workItem from="1585236268486" duration="10222000" />
-      <workItem from="1585246692357" duration="255000" />
+      <workItem from="1585246692357" duration="3321000" />
+      <workItem from="1585291151294" duration="4851000" />
+      <workItem from="1585307063337" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/rest-servlet" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="70" key="#JBoss_Server" timestamp="1585142414055">
@@ -272,26 +278,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1585236109973" />
-    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1585236813599">
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1585307081169">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585236813599" />
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1585246664249">
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585307081169" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1585309783831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585246664249" />
-    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1585246664249">
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585309783831" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1585309783831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585246664249" />
-    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1585246664249">
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585309783831" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1585309783831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585246664249" />
-    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1585246664249">
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585309783831" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1585309783831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585246664249" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585309783831" />
     <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1585217938643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -308,22 +314,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585217938643" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1585213891977">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585248913412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585213891977" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585236270856">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585248913412" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585307065342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585236270856" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585307065342" />
     <state x="499" y="178" key="extract.method.dialog" timestamp="1585236860530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585236860530" />
-    <state x="209" y="0" key="new project wizard" timestamp="1585145763402">
+    <state x="209" y="0" key="new project wizard" timestamp="1585291935049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585145763402" />
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585291935049" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
